@@ -1,0 +1,21 @@
+#mac{
+    height: 500px;
+    width: 500px;
+}
+#row,tr{
+    position: relative;
+    left: 700px;
+    bottom: 350px;
+    font-size: large;
+}
+#more{
+  
+display: flex;
+justify-content: center;
+
+}
+#para{
+
+  left: 200px;
+    bottom: 200px;
+}

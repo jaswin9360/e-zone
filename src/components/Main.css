@@ -1,0 +1,151 @@
+#laptop{
+    height: 300px;
+    width: 300px;
+}
+#Header,input{
+    display: flex;  
+  align-items: center;
+  background: #554040;
+  color: rgb(255, 0, 13);
+  justify-content: space-evenly;
+}
+#zoon{
+    color: azure;
+}
+#about{
+   color: rgb(255, 0, 13);
+   height: auto;
+   width: auto;
+}
+#contact{
+    height: auto;
+    width: auto;
+    color: rgb(255, 0, 13);
+}
+#head{
+    color: rgb(255, 0, 13);
+}
+#laptop
+{
+    
+    width: 300px;
+    position: relative;
+bottom: -40px;
+    border: 1px solid ;
+    border-radius: 20px;
+    right: -50px;
+    
+}
+#apple{
+    display:flex ;
+    position: relative;
+    left:300px;
+    bottom: 200px;
+}
+.apple1{
+    font-size: 20px;
+    position: relative;
+    left: 310px;
+   top: 20px;
+}
+.apple2{
+    position: relative;
+    top: 50px;
+    left: 150px;
+}
+.apple3{
+    color: green;
+   position: relative;
+   top: 100px;
+   left: 20px;
+}
+#botton{
+
+    position: relative;
+    left: 650px;
+   top: -90px;
+   background: #e6fa0e;
+   border-radius: 10px;
+}
+#botton1{
+    position: relative;
+    left: 630px;
+   top: -240px;
+   background: #e6fa0e;
+   border-radius: 10px;
+}
+#mobile{
+    display:flex ;
+    position: relative;
+    left:50px;
+    bottom: 100px;
+   
+}
+.oneplus1{
+position: relative;
+font-size: 20px;
+right: -630px;
+bottom: 200px;
+}
+.oneplus2{
+    position: relative;
+
+right: -620px;
+bottom: 200px;
+    
+}
+.oneplus3{
+    position: relative;
+
+right: -630px;
+bottom: 240px;
+color: green;
+   
+}
+#mobile
+{
+    
+    width: 300px;
+    position: relative;
+bottom: -40px;
+    border: 1px solid ;
+    border-radius: 20px;
+    right: -20px;
+    
+}
+.oneplus32{
+    position: relative;
+
+    right: -620px;
+    bottom: 240px;
+    color: rgb(245, 6, 6);
+}
+footer,br{
+    display: flex;
+    background: #8b8989;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;   
+}
+input{
+    border-radius: 10px;
+   size-adjust: 500px;
+   color: aliceblue;
+}
+a{
+    text-decoration: none;
+}
+#about1{
+    font-size: larger;
+    position: relative;
+    left: 500px; 
+    top: 300px;
+}
+#contact1{
+    font-size: larger;
+    position: relative;
+    left: 500px; 
+    top: 300px;
+}
+
