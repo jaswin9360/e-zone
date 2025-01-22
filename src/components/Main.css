@@ -4,18 +4,18 @@
 }
 #Header,input{
     display: flex;  
-  align-items: center;
-  background: #554040;
-  color: rgb(255, 0, 13);
-  justify-content: space-evenly;
+    align-items: center;
+    background: #554040;
+    color: rgb(255, 0, 13);
+    justify-content: space-evenly;
 }
 #zoon{
     color: azure;
 }
 #about{
-   color: rgb(255, 0, 13);
-   height: auto;
-   width: auto;
+    color: rgb(255, 0, 13);
+    height: auto;
+    width: auto;
 }
 #contact{
     height: auto;
@@ -25,16 +25,13 @@
 #head{
     color: rgb(255, 0, 13);
 }
-#laptop
-{
-    
+#laptop{
     width: 300px;
     position: relative;
 bottom: -40px;
     border: 1px solid ;
     border-radius: 20px;
-    right: -50px;
-    
+    right: -50px;  
 }
 #apple{
     display:flex ;
@@ -46,7 +43,7 @@ bottom: -40px;
     font-size: 20px;
     position: relative;
     left: 310px;
-   top: 20px;
+    top: 20px;
 }
 .apple2{
     position: relative;
@@ -55,24 +52,25 @@ bottom: -40px;
 }
 .apple3{
     color: green;
-   position: relative;
-   top: 100px;
-   left: 20px;
+    position: relative;
+    top: 100px;
+    left: 20px;
 }
 #botton{
-
     position: relative;
     left: 650px;
-   top: -90px;
-   background: #e6fa0e;
-   border-radius: 10px;
+    top: -90px;
+    background: #e6fa0e;
+    border-radius: 10px;
+    cursor: pointer; 
 }
 #botton1{
     position: relative;
     left: 630px;
-   top: -240px;
-   background: #e6fa0e;
-   border-radius: 10px;
+    top: -240px;
+    background: #e6fa0e;
+    border-radius: 10px;
+    cursor: pointer; 
 }
 #mobile{
     display:flex ;
@@ -82,40 +80,32 @@ bottom: -40px;
    
 }
 .oneplus1{
-position: relative;
-font-size: 20px;
-right: -630px;
-bottom: 200px;
+    position: relative;
+    font-size: 20px;
+    right: -630px;
+    bottom: 200px;
 }
 .oneplus2{
     position: relative;
-
-right: -620px;
-bottom: 200px;
-    
+    right: -620px;
+    bottom: 200px;
 }
 .oneplus3{
     position: relative;
-
-right: -630px;
-bottom: 240px;
-color: green;
-   
+    right: -630px;
+    bottom: 240px;
+    color: green;
 }
-#mobile
-{
-    
+#mobile{
     width: 300px;
     position: relative;
-bottom: -40px;
+    bottom: -40px;
     border: 1px solid ;
     border-radius: 20px;
     right: -20px;
-    
 }
 .oneplus32{
     position: relative;
-
     right: -620px;
     bottom: 240px;
     color: rgb(245, 6, 6);
@@ -130,8 +120,8 @@ footer,br{
 }
 input{
     border-radius: 10px;
-   size-adjust: 500px;
-   color: aliceblue;
+    size-adjust: 500px;
+    color: aliceblue;
 }
 a{
     text-decoration: none;
@@ -148,4 +138,37 @@ a{
     left: 500px; 
     top: 300px;
 }
-
+#HomeButton{
+    font-size: larger;
+    background: #edb2b2;
+    position: relative;
+    top: 50px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+#HomeButton1{
+    font-size: larger;
+    background: #edb2b2;
+    position: relative;
+    top: 50px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+#MainHomeButton{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#MainFooter{
+    position: relative;
+    top: 580px;
+}
+#record{
+    position: relative;
+    top: 350px;
+}
+#record1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
