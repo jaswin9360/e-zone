@@ -4,20 +4,19 @@ function Create() {
    
   return (
     <div>
-        <form id='form' >
+        <form id='form1' >
           <h1>Create  New   Account </h1>
       <label>Name:</label>
-      <input type='text ' placeholder='Enter your name'/>
+      <input  id="Loginform1" type='text ' placeholder='Enter your name'/>
       <label>Phone No:</label>
-      <input type="number" placeholder='Enter your number'/>
+      <input  id="Loginform1" type="number" placeholder='Enter your number'/>
       <label>Email:</label>
-      <input type='email' placeholder='Enter your email'/>
+      <input  id="Loginform1" type='email' placeholder='Enter your email'/>
       <label>Password:</label>
-      <input type='password' placeholder='Enter your password'/>
-      <button >Submit</button>
-      <a href='/login'>login</a> 
-      </form>       
-      <button onClick={()=>window.location.href='/'} >back</button>
+      <input id="Loginform1" type='password' placeholder='Enter your password'/>
+      <button  id='Loginbutton'>Submit</button>
+      <a href='/login'>login</a>   <button id='buttonback' onClick={()=>window.location.href='/'} >back</button>  
+      </form>    
     </div>
   )
 }
