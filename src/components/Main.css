@@ -17,7 +17,7 @@
     height: auto;
     width: auto;
 }
-#contact{
+#contact,#login{
     height: auto;
     width: auto;
     color: rgb(255, 0, 13);
@@ -152,12 +152,12 @@ a{
     position: relative;
     top: 50px;
     cursor: pointer;
-    border-radius: 5px;
+    border-radius: 5px; 
 }
 #MainHomeButton{
     display: flex;
     justify-content: space-evenly;
-    align-items: center;
+    align-items: center; 
 }
 #MainFooter{
     position: relative;

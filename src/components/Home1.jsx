@@ -11,6 +11,7 @@ function Home1() {
       <a id='about'href='/About'>About</a><br/>
       <a id='contact'href='/contact'>contact</a><br/>
       </div>
+      <button onClick={()=>window.location.href='/'} >back</button>
     <section>
     <img  id="laptop" src='https://m.media-amazon.com/images/I/71jG+e7roXL.jpg' alt='error' />
     <div id="apple">

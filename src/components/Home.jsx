@@ -10,6 +10,7 @@ function Home() {
       <a id='head' href='/'>Home</a><br/>
       <a id='about'href='/About'>About</a><br/>
       <a id='contact'href='/contact'>contact</a><br/>
+      <a id="login" href='/login' >Log in</a>
       </div>
       <div id='MainHomeButton'>
         <button  id="HomeButton" onClick={()=>window.location.href="/Home1"}>Products</button>
