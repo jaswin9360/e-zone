@@ -1,4 +1,5 @@
 import React from 'react'
+
 import { BrowserRouter,Route,Routes } from 'react-router-dom'
 import Home from './components/Home'
 import About from './components/About'
@@ -13,8 +14,8 @@ import Oneplusmobile from './components/products/Oneplusmobile'
 import Apple13 from './components/products/Apple13'
 import Asus from './components/products/Asus'
 import Samsuns24 from './components/products/Samsuns24'
-
-function App() {
+const App = ()=> {
+  
   return (
     <div>
         <BrowserRouter>

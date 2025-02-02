@@ -55,7 +55,7 @@ h1 {
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgb(98, 98, 98);
 }
-#Loginform1{
+#Loginform1,#Loginform2,#Loginform3,#Loginform4,#Loginform5{
     background: #ffffff;
     color: black;
 }
